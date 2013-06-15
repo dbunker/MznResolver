@@ -1,0 +1,28 @@
+..... y b b 
+..... y b b 
+..... y b b 
+o o o b w w r r r 
+o o o b w w r r r 
+o o o b w w r r r 
+..... w g g 
+..... w g g 
+..... w g g 
+..... g y y 
+..... g y y 
+..... g y y 
+
+CounterClock Left
+
+..... b b b 
+..... b b b 
+..... b b b 
+o o o w w w r r r 
+o o o w w w r r r 
+o o o w w w r r r 
+..... g g g 
+..... g g g 
+..... g g g 
+..... y y y 
+..... y y y 
+..... y y y 
+
