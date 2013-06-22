@@ -35,11 +35,11 @@ Start{
 		b b b ;
 o o o 	w w w 	r r r ;
 o o o 	w w w 	r r r ;
-w w w 	r r r 	y y y ;
+r r r 	y y y 	o o o ;
 		g g g ;
 		g g g ;
 		g g g ;
-		o o o ;
+		w w w ;
 		y y y ;
 		y y y ;
 }

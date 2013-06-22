@@ -1,8 +1,15 @@
-# solve 3x3 rubiks cube
-# should take 6 moves or less
+# solves 3x3 rubics cube
 
-Sym{ b o w r g y }
+Sym{
+	# colors
+	w o y g b r;
+}
 
+# for common starting lables
+#		top
+#	left	front	right
+#		bottom
+#		back
 Board{
 .....		b1 b2 b3;
 .....		b4 b5 b6;
@@ -18,19 +25,23 @@ o7 o8 o9	w7 w8 w9 	r7 r8 r9;
 .....		y7 y8 y9;
 }
 
+# initially has left side turned
+# the cube is formed by turning this into a box
+# tested left
+# tested right
 Start{
-		r r b;
-		b b y;
-		w w b;
-y y o		g g o		w r w;
-b o o		g w o		w r g;
-b o o		g w w		r b y;
-		y r g;
-		y g w;
-		y o o;
-		r b b;
-		r y y;
-		g g r;
+		w b w ;
+		y b y ;
+		b o o ;
+r o w 	r b b 	y r o ;
+r o o 	w w w 	r r o ;
+b b y 	o b b 	y g g ;
+		g r r ;
+		w g y ;
+		w g y ;
+		o w r ;
+		g y g ;
+		g y g ;
 }
 
 End{
@@ -48,7 +59,19 @@ o o o		w w w 		r r r;
 		y y y;
 }
 
-TransSim Clock:Side{
+Obj Side{
+
+	t1 t2 t3;
+
+l3	f1 f2 f3	r1;
+l2	f4 f5 f6	r2;
+l1	f7 f8 f9	r3;
+
+	b1 b2 b3;
+}
+
+# left side move clockwise (if facing us)
+Trans Clock:Side{
 
 	t1 t2 t3;
 
@@ -67,7 +90,7 @@ b3	f9 f6 f3	t3;
 	r3 r2 r1;
 }
 
-TransSim CounterClock:Side{
+Trans CounterClock:Side{
 
 	t1 t2 t3;
 
@@ -86,7 +109,7 @@ t1	f1 f4 f7	b1;
 	l3 l2 l1;
 }
 
-TransSim FullFace:Side{
+Trans FullFace:Side{
 
 	t1 t2 t3;
 

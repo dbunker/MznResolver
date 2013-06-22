@@ -1,0 +1,450 @@
+start cube
+
+		b b b ;
+		b b b ;
+		b b b ;
+o o o 	w w w 	r r r ;
+o o o 	w w w 	r r r ;
+w w w 	r r r 	y y y ;
+		g g g ;
+		g g g ;
+		g g g ;
+		o o o ;
+		y y y ;
+		y y y ;
+
+start cube
+
+		b b b ;
+		b b b ;
+		b b b ;
+o o o 	w w w 	r r r ;
+o o o 	w w w 	r r r ;
+r r r 	y y y 	o o o ;
+		g g g ;
+		g g g ;
+		g g g ;
+		w w w ;
+		y y y ;
+		y y y ;
+
+start cube
+
+		b b b ;
+		b b b ;
+		r r o ;
+o o b 	w w y 	g r r ;
+o o b 	w w y 	g r r ;
+r r b 	w w y 	g o o ;
+		o o r ;
+		g g g ;
+		g g g ;
+		w w w ;
+		y y y ;
+		y y y ;
+
+start cube
+
+		w b b ;
+		y b b ;
+		y r o ;
+r o o 	b w y 	g r r ;
+r o o 	b w y 	g r r ;
+b b b 	r w y 	g o o ;
+		w o r ;
+		w g g ;
+		w g g ;
+		o w w ;
+		g y y ;
+		g y y ;
+
+start cube
+
+		w b w ;
+		y b y ;
+		y r y ;
+r o o 	b w b 	r r o ;
+r o o 	b w b 	r r o ;
+b b b 	r w o 	g g g ;
+		w o y ;
+		w g y ;
+		w g y ;
+		o w r ;
+		g y g ;
+		g y g ;
+
+start cube
+
+		w b w ;
+		y b y ;
+		b o o ;
+r o w 	r b b 	y r o ;
+r o o 	w w w 	r r o ;
+b b y 	o b b 	y g g ;
+		g r r ;
+		w g y ;
+		w g y ;
+		o w r ;
+		g y g ;
+		g y g ;
+
+start cube
+
+		w y o ;
+		b b o ;
+		w y b ;
+g y g 	r o w 	r b b ;
+r o o 	w w w 	r r o ;
+b b y 	o b b 	y g g ;
+		g r r ;
+		w g y ;
+		w g y ;
+		o w r ;
+		g y g ;
+		o r y ;
+
+start cube
+
+		w y r ;
+		b b g ;
+		w y y ;
+g y g 	r o o 	b o g ;
+r o o 	w w o 	b r g ;
+b b y 	o b b 	r r y ;
+		g r w ;
+		w g w ;
+		w g b ;
+		o w r ;
+		g y y ;
+		o r y ;
+
+start cube
+
+		w y r ;
+		b b g ;
+		w y y ;
+g y g 	r o o 	b o g ;
+r o o 	w w o 	b r g ;
+r w o 	b b y 	o b b ;
+		w w g ;
+		g g r ;
+		b w w ;
+		y r r ;
+		g y y ;
+		o r y ;
+
+start cube
+
+		r g y ;
+		y b y ;
+		w b w ;
+y r o 	g y g 	r o o ;
+r o o 	w w o 	b r g ;
+r w o 	b b y 	o b b ;
+		w w g ;
+		g g r ;
+		b w w ;
+		y r r ;
+		g y y ;
+		g o b ;
+
+start cube
+
+		r g y ;
+		y b y ;
+		r b o ;
+y r w 	g o y 	g o o ;
+r o b 	y w b 	w r g ;
+r w w 	g w b 	w b b ;
+		o o o ;
+		g g r ;
+		b w w ;
+		y r r ;
+		g y y ;
+		g o b ;
+
+start cube
+
+		r g y ;
+		y b y ;
+		g w w ;
+y r o 	y b b 	o o o ;
+r o b 	o w w 	o r g ;
+r w r 	g y g 	o b b ;
+		w b w ;
+		g g r ;
+		b w w ;
+		y r r ;
+		g y y ;
+		g o b ;
+
+start cube
+
+		y g y ;
+		o b y ;
+		g w w ;
+o b r 	w b b 	o o o ;
+r o w 	g w w 	o r g ;
+y r r 	b y g 	o b b ;
+		y b w ;
+		g g r ;
+		g w w ;
+		r r r ;
+		y y y ;
+		g o b ;
+
+start cube
+
+		y g r ;
+		o b y ;
+		g w b ;
+o b r 	w b y 	o g b ;
+r o w 	g w y 	o r b ;
+y r r 	b y w 	o o o ;
+		y b b ;
+		g g w ;
+		g w g ;
+		r r w ;
+		y y r ;
+		g o w ;
+
+start cube
+
+		y g y ;
+		o b y ;
+		g w w ;
+o b r 	w b b 	o o o ;
+r o w 	g w w 	o r g ;
+y r r 	b y g 	o b b ;
+		y b w ;
+		g g r ;
+		g w w ;
+		r r r ;
+		y y y ;
+		g o b ;
+
+start cube
+
+		y g y ;
+		o b y ;
+		o o o ;
+o b w 	b w g 	w o o ;
+r o w 	b w y 	b r g ;
+y r g 	w g b 	y b b ;
+		r w r ;
+		g g r ;
+		g w w ;
+		r r r ;
+		y y y ;
+		g o b ;
+
+start cube
+
+		o o y ;
+		o b g ;
+		o y y ;
+b w g 	w o o 	b o g ;
+r o w 	b w y 	b r g ;
+y r g 	w g b 	y b b ;
+		r w r ;
+		g g r ;
+		g w w ;
+		r r r ;
+		y y y ;
+		w b o ;
+
+start cube
+
+		o o y ;
+		o b g ;
+		o y y ;
+b w g 	w o o 	b o g ;
+r o w 	b w y 	b r g ;
+w g b 	y b b 	r r r ;
+		r r w ;
+		w g w ;
+		r g g ;
+		g r y ;
+		y y y ;
+		w b o ;
+
+start cube
+
+		g g r ;
+		o b g ;
+		o y y ;
+y w g 	w o o 	b o g ;
+o o w 	b w y 	b r g ;
+o g b 	y b b 	r r r ;
+		r r w ;
+		w g w ;
+		b r w ;
+		w y g ;
+		b y r ;
+		o y y ;
+
+start cube
+
+		g g o ;
+		o b y ;
+		o y b ;
+y w g 	w o w 	r b b ;
+o o w 	b w w 	r r o ;
+o g b 	y b w 	r g g ;
+		r r g ;
+		w g r ;
+		b r y ;
+		w y r ;
+		b y g ;
+		o y y ;
+
+start cube
+
+		w g o ;
+		b b y ;
+		y y b ;
+g w b 	r o w 	r b b ;
+w o g 	w w w 	r r o ;
+y o o 	b b w 	r g g ;
+		w r g ;
+		b g r ;
+		o r y ;
+		g y r ;
+		o y g ;
+		o y y ;
+
+start cube
+
+		w g o ;
+		b b y ;
+		y y b ;
+g w b 	r o w 	r b b ;
+w o g 	w w w 	r r o ;
+b b w 	r g g 	r y g ;
+		g r y ;
+		r g r ;
+		w b o ;
+		o o y ;
+		o y g ;
+		o y y ;
+
+start cube
+
+		b o g ;
+		b b y ;
+		y y b ;
+o w b 	r o w 	r b o ;
+g o g 	w w w 	r r b ;
+w b w 	r g g 	r y w ;
+		g r y ;
+		r g r ;
+		g w b ;
+		o o o ;
+		y y o ;
+		y g y ;
+
+start cube
+
+		o o g ;
+		y b y ;
+		y y b ;
+w g o 	b o w 	r b o ;
+b o w 	b w w 	r r b ;
+w g b 	y g g 	r y w ;
+		r r y ;
+		w g r ;
+		r w b ;
+		g o o ;
+		r y o ;
+		g g y ;
+
+start cube
+
+		o o o ;
+		y b o ;
+		y y y ;
+w g o 	b o g 	o b w ;
+b o w 	b w y 	b r y ;
+w g b 	y g b 	r r r ;
+		r r w ;
+		w g w ;
+		r w g ;
+		g o y ;
+		r y r ;
+		g g b ;
+
+start cube
+
+		o o o ;
+		y b o ;
+		o b r ;
+w g y 	g y b 	w b w ;
+b o y 	o w g 	r r y ;
+w g y 	b b y 	r r r ;
+		o w b ;
+		w g w ;
+		r w g ;
+		g o y ;
+		r y r ;
+		g g b ;
+
+start cube
+
+		o o o ;
+		y b o ;
+		o b r ;
+w g y 	g y b 	w b w ;
+b o y 	o w g 	r r y ;
+y o g 	w g y 	b b y ;
+		r w o ;
+		w g w ;
+		g w b ;
+		r r r ;
+		r y r ;
+		g g b ;
+
+start cube
+
+		o o o ;
+		y b o ;
+		o b r ;
+w g y 	g y b 	w b w ;
+b o y 	o w g 	r r y ;
+r r r 	y o g 	w g y ;
+		g w r ;
+		w g w ;
+		b w o ;
+		y b b ;
+		r y r ;
+		g g b ;
+
+start cube
+
+		o o o ;
+		y b o ;
+		w r w ;
+w g r 	b g g 	r b w ;
+b o b 	y w o 	w r y ;
+r r o 	g o y 	g g y ;
+		y y r ;
+		w g w ;
+		b w o ;
+		y b b ;
+		r y r ;
+		g g b ;
+
+start cube
+
+		y o o ;
+		r b o ;
+		g r w ;
+r b w 	o g g 	r b w ;
+r o g 	y w o 	w r y ;
+o b r 	w o y 	g g y ;
+		b y r ;
+		y g w ;
+		g w o ;
+		y b b ;
+		w y r ;
+		b g b ;
+

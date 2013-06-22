@@ -127,9 +127,16 @@ def solve(sabrCmd,num,fullResolve=False):
 		mznvars2sabrvars('mznvars.txt','vars.txt')
 		print 'to sabrvars vars.txt'
 	
-		outName = 'out/mzn/cube-' + str(num) + '-result.txt'
+		outName = 'out/result/cube-' + str(num) + '-result.txt'
 		sabrvars2out(sabrCmd,num,sabrName,outName)
 		print 'to output ' + outName
 
-for i in [1,6,10,20]:
-	solve('../SABR/sabr',i)
+def buildAll():
+	for i in range(1,21):
+		solve('../SABR/sabr',i,False)
+
+def runSome():
+	for i in range(1,5):
+		solve('../SABR/sabr',i,True)
+
+runSome()

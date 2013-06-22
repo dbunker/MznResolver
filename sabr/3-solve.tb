@@ -32,14 +32,14 @@ o7 o8 o9	w7 w8 w9 	r7 r8 r9;
 Start{
 		b b b ;
 		b b b ;
-		b b b ;
-o o o 	w w w 	r r r ;
-o o o 	w w w 	r r r ;
-w w w 	r r r 	y y y ;
+		r r o ;
+o o b 	w w y 	g r r ;
+o o b 	w w y 	g r r ;
+r r b 	w w y 	g o o ;
+		o o r ;
 		g g g ;
 		g g g ;
-		g g g ;
-		o o o ;
+		w w w ;
 		y y y ;
 		y y y ;
 }

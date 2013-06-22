@@ -1,0 +1,28 @@
+..... b b b 
+..... b b b 
+..... b b b 
+o o o w w w r r r 
+o o o w w w r r r 
+w w w r r r y y y 
+..... g g g 
+..... g g g 
+..... g g g 
+..... o o o 
+..... y y y 
+..... y y y 
+
+Clock Bottom
+
+..... b b b 
+..... b b b 
+..... b b b 
+o o o w w w r r r 
+o o o w w w r r r 
+o o o w w w r r r 
+..... g g g 
+..... g g g 
+..... g g g 
+..... y y y 
+..... y y y 
+..... y y y 
+

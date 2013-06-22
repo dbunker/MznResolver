@@ -30,18 +30,18 @@ o7 o8 o9	w7 w8 w9 	r7 r8 r9;
 # tested left
 # tested right
 Start{
-		b b b ;
-		b b b ;
-		b b b ;
-o o o 	w w w 	r r r ;
-o o o 	w w w 	r r r ;
-w w w 	r r r 	y y y ;
-		g g g ;
-		g g g ;
-		g g g ;
-		o o o ;
-		y y y ;
-		y y y ;
+		y g r ;
+		o b y ;
+		g w b ;
+o b r 	w b y 	o g b ;
+r o w 	g w y 	o r b ;
+y r r 	b y w 	o o o ;
+		y b b ;
+		g g w ;
+		g w g ;
+		r r w ;
+		y y r ;
+		g o w ;
 }
 
 End{
