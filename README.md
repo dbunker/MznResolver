@@ -9,6 +9,6 @@ longest a scramble could take to solve is 20.
 
 To test, place SABR folder with sabr executable next to MznResolver and run
 
-python resolver.py <rubiks test size>
+python resolver.py &ltrubiks test size&gt
 
-The result will be placed in out/result/cube-<rubiks test size>-result.txt
+The result will be placed in out/result/cube-&ltrubiks test size&gt-result.txt
