@@ -1,5 +1,5 @@
 
-import os
+import os, sys
 
 print 'start'
 
@@ -139,4 +139,8 @@ def runSome():
 	for i in range(1,5):
 		solve('../SABR/sabr',i,True)
 
-runSome()
+def runSpec():
+	testNum = int(sys.argv[1])
+	solve('../SABR/sabr',testNum,True)
+
+runSpec()
